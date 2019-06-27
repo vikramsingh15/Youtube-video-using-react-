@@ -1,5 +1,5 @@
 import Axios from "axios";
-const KEY="AIzaSyCa9sBX3oSmGjc-gycgCDmF9TIW1GUXs70"
+const KEY="Api_key"
 
 
 export default Axios.create({
